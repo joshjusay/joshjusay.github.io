@@ -540,7 +540,12 @@ footer {
 	top: 50%;
 	transform: translateY(-50%);
 	margin-left: 300px;
-	padding: 15px
+    padding: 15px;
+    transition: .5s ease all
+}
+
+.project-info:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23)
 }
 
 .project-info h3 {
@@ -594,7 +599,8 @@ footer {
 	background: #fff;
 	list-style: none;
 	cursor: default;
-	font-size: 1.2em
+	font-size: 1.2em;
+	transition: .5s ease all
 }
 
 #skills li:hover {
