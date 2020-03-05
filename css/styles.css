@@ -185,7 +185,7 @@ footer {
 }
 
 .social li {
-	display: inline;
+	float: right;
 	font-size: 1.25em;
 	list-style: none
 }
