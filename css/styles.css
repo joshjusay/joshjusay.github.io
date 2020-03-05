@@ -597,6 +597,10 @@ footer {
 	font-size: 1.2em
 }
 
+#skills li:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23) 
+}
+
 #contact {
 	padding: 50px 15px;
 	background: #3498db;
