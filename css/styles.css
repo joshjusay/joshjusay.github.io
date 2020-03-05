@@ -65,7 +65,7 @@ header {
 
 header ul {
 	display: inline-block;
-	background: #fff;
+	background: #f2f2f5;
 	text-align: center;
 	padding: 10px;
 	margin: 0;
@@ -351,7 +351,7 @@ footer {
 }
 
 #about p {
-	color: #74808a;
+	color: #fff;
 	margin: 0
 }
 
