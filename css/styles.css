@@ -252,7 +252,7 @@ footer {
 	height: 100vh;
 	min-height: 500px;
 	max-height: 1080px;
-	background: url(../images/profile.JPG);
+	background: url(../images/profile.jpg);
 	background-size: cover;
 	padding: 15px;
 	overflow: hidden
@@ -569,6 +569,10 @@ footer {
 	margin: 0 0 15px 0;
     font-size: 0.9em;
     text-align: left
+}
+
+.project-info ul {
+	text-align: left;
 }
 
 .no-image .project-info {
